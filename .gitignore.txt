@@ -1,0 +1,22 @@
+# Ignorar pastas comuns
+node_modules/
+AppData/
+bin/
+obj/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Ignorar configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos específicos de IDEs
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
