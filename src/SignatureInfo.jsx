@@ -83,9 +83,9 @@ const SignatureInfo = () =>{
                 <h2>Leesburg, VA</h2>
                     <ul>
                         <li>Address: 891 C Harrison Street, SW  Leesburg, VA 20175</li>
-                        <li>Office: 703.596.3577</li>
+                        <li>Office: 703.340.8033</li>
                         <li>Fax: 703.991.0604</li>
-                        <li>Map: https://maps.app.goo.gl/PrLPqGg4bva9nHBu7</li>
+                        <li>Map: https://maps.app.goo.gl/xcRkxNjVSapNABjQ9</li>
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
