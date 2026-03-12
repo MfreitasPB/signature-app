@@ -91,30 +91,7 @@ const Signature = ({ data }) => {
                     }}
                   >
                     {/* Text */}
-                    <p
-                      style={{
-                        fontSize: "20px", // Reduced from 25px to 20px
-                        fontWeight: "500",
-                        margin: "0",
-                        display: "flex",
-                        alignItems: "center",
-                        gap: "8px"
-                      }}
-                    >
-                      <strong>
-                        Proud Partner of the{" "}
-                        <span style={{ color: "#5a1414" }}>Washington Commanders</span>
-                      </strong>
-                      <img
-                        src="https://pb-signature-bucket.s3.us-east-1.amazonaws.com/commanders-logo.png"
-                        alt="Commanders Logo"
-                        style={{
-                          width: "60px",
-                          height: "auto",
-                          marginLeft: "8px"
-                        }}
-                      />
-                    </p>
+                    
                   </div>
                 </td>
               </tr>
