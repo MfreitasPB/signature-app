@@ -10,19 +10,19 @@ const SignatureInfo = () =>{
                 <div className="signature-info-container__grid--item">
                     <h2>Washington, DC</h2>
                     <ul>
-                        <li>Address: 409 7th St, NW #200 Washington DC 20004</li>
+                        <li>Address: 409 7th St, NW #300 Washington DC 20004</li>
                         <li>Office: 202.417.6000</li>
                         <li>Fax: 202.664.1331</li>
                         <li>Map: https://goo.gl/maps/kr6cDsdbbbwn7ew9A</li>
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Colonial Heights, VA</h2>
+                <h2>Richmond, VA</h2>
                     <ul>
-                        <li>105 Valley Road, Colonial Heights, VA, 23834</li>
-                        <li>Office: 804.531.4048</li>
+                        <li>2510 Professional Road, 2nd FL, N Chesterfield VA 23235</li>
+                        <li>Office: 703.340.8033</li>
                         <li>Fax: 703.991.0604</li>
-                        <li>Map: https://maps.app.goo.gl/G3kigqrvwims586d7</li>
+                        <li>Map: https://maps.app.goo.gl/V9QgjBCPePMeRdAr8</li>
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
