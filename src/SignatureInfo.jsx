@@ -17,7 +17,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Richmond, VA</h2>
+                    <h2>Richmond, VA</h2>
                     <ul>
                         <li>2510 Professional Road, 2nd FL, N Chesterfield VA 23235</li>
                         <li>Office: 703.340.8033</li>
@@ -26,7 +26,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Washington, DC [PI]</h2>
+                    <h2>Washington, DC [PI]</h2>
                     <ul>
                         <li>Address: 409 7th St, NW #200 Washington DC 20004</li>
                         <li>Office: 202.417.6015</li>
@@ -35,7 +35,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Rockville, MD</h2>
+                    <h2>Rockville, MD</h2>
                     <ul>
                         <li>Address: 110 N Washington Street, Suite 200, Rockville, MD 20850</li>
                         <li>Office: 301.231.1999</li>
@@ -44,7 +44,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Fairfax, VA</h2>
+                    <h2>Fairfax, VA</h2>
                     <ul>
                         <li>Address: 10505 Judicial Drive, Suite 203, Fairfax, VA 22030</li>
                         <li>Office: 703.340.8033</li>
@@ -53,7 +53,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Summerville, SC</h2>
+                    <h2>Summerville, SC</h2>
                     <ul>
                         <li>Address: 110 West Doty Ave., Suite B, Summerville, SC 29483</li>
                         <li>Office: 843.773.5896</li>
@@ -62,7 +62,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Manassas, VA</h2>
+                    <h2>Manassas, VA</h2>
                     <ul>
                         <li>Address: 9071 Center Street, Manassas, VA 20110</li>
                         <li>Office: 703.340.8033</li>
@@ -71,7 +71,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Columbia, SC</h2>
+                    <h2>Columbia, SC</h2>
                     <ul>
                         <li>Address: 1614 Taylor Street, Suite D, Columbia, SC 29201</li>
                         <li>Office: 803.471.7700</li>
@@ -80,7 +80,7 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Leesburg, VA</h2>
+                    <h2>Leesburg, VA</h2>
                     <ul>
                         <li>Address: 891 C Harrison Street, SW  Leesburg, VA 20175</li>
                         <li>Office: 703.340.8033</li>
@@ -89,49 +89,58 @@ const SignatureInfo = () =>{
                     </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Greenbelt, MD</h2>
-                <ul>
-                    <li>Address: 6305 Ivy Lane - Suite 270 Greenbelt, MD 20770</li>
-                    <li>Office: 301.684.8004</li>
-                    <li>Fax: 301.244.6659</li>
-                    <li>Map: https://g.co/kgs/Pyrynxu</li>
-                </ul>
+                    <h2>Greenbelt, MD</h2>
+                    <ul>
+                        <li>Address: 6305 Ivy Lane - Suite 270 Greenbelt, MD 20770</li>
+                        <li>Office: 301.684.8004</li>
+                        <li>Fax: 301.244.6659</li>
+                        <li>Map: https://g.co/kgs/Pyrynxu</li>
+                    </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Columbia, MD</h2>
-                <ul>
-                    <li>Address: 5850 Waterloo Road Suite 140 Columbia, MD 21045-1944</li>
-                    <li>Office: 301.637.6782</li>
-                    <li>Fax: 321.424.6840</li>
-                    <li>Map: </li>
-                </ul>
+                    <h2>Columbia, MD</h2>
+                    <ul>
+                        <li>Address: 5850 Waterloo Road Suite 140 Columbia, MD 21045-1944</li>
+                        <li>Office: 301.637.6782</li>
+                        <li>Fax: 321.424.6840</li>
+                        <li>Map: https://maps.app.goo.gl/T97ushdXziHwjnycA</li>
+                    </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Shady Grove, MD</h2>
-                <ul>
-                    <li>Address: 9200 Corporate Blvd, Suite 360 Rockville, MD 20850</li>
-                    <li>Office: </li>
-                    <li>Fax: 301.244.6659</li>
-                    <li>Map: </li>
-                </ul>
+                    <h2>Shady Grove, MD</h2>
+                    <ul>
+                        <li>Address: 9200 Corporate Blvd, Suite 360 Rockville, MD 20850</li>
+                        <li>Office: 202.417.6015</li>
+                        <li>Fax: 301.244.6659</li>
+                        <li>Map: https://maps.app.goo.gl/Cng4ReeBX194ZaWw6</li>
+                    </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Greenville, SC</h2>
-                <ul>
-                    <li>Address: 601 E McBee Ave. Suite #105, Greenville, SC 29601</li>
-                    <li>Office: 864.423.6280</li>
-                    <li>Fax: 803.380.8035</li>
-                    <li>Map: </li>
-                </ul>
+                    <h2>Greenville, SC</h2>
+                    <ul>
+                        <li>Address: 601 E McBee Ave. Suite #105, Greenville, SC 29601</li>
+                        <li>Office: 864.423.6280</li>
+                        <li>Fax: 803.380.8035</li>
+                        <li>Map: https://maps.app.goo.gl/AiAyF6K3piveKEAL6</li>
+                    </ul>
                 </div>
                 <div className="signature-info-container__grid--item">
-                <h2>Charleston, SC</h2>
-                <ul>
-                    <li>Address: 215 East Bay St. Suite 500-I, Charleston, SC 29401</li>
-                    <li>Office: 803.272.4503</li>
-                    <li>Fax: 803.380.8035</li>
-                    <li>Map: </li>
-                </ul>
+                    <h2>Charleston, SC</h2>
+                    <ul>
+                        <li>Address: 215 East Bay St. Suite 500-I, Charleston, SC 29401</li>
+                        <li>Office: 803.272.4503</li>
+                        <li>Fax: 803.380.8035</li>
+                        <li>Map: https://maps.app.goo.gl/AzGE6xJUhcVxoyN86</li>
+                    </ul>
+                </div>
+                <div className="signature-info-container__grid--item">
+                    <h2>Baltimore, MD</h2>
+                    <ul>
+                        <li>Address: 1 N. Charles St, 14th FL, Suite 1407, Baltimore, MD 21201</li>
+                        <li>Office: 202.417.6000</li>
+                        <li>Fax: 202.664.1331</li>
+                        <li>Map: https://maps.app.goo.gl/NfTEHZN2rwxAkrtZ6</li>
+                    </ul>
                 </div>
             </div>
         </section>
