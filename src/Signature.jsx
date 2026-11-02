@@ -46,7 +46,7 @@ const Signature = ({ data }) => {
                 {/* Logo */}
                 <td style={{ paddingRight: "16px", borderRight: "2px solid black" }}>
                   <img
-                    src="https://pb-signature-bucket.s3.us-east-1.amazonaws.com/PB-Sign.png"
+                    src="https://raw.githubusercontent.com/MfreitasPB/imageRepository/main/Signature%20App/PB-Sign.png"
                     alt="PriceBenowitz logo"
                     style={{ width: "250px", display: "block" }}
                   />
