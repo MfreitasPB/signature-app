@@ -145,14 +145,64 @@ const SignatureInfo = () =>{
                 </div>
             </div>
             <div className="signature-info-container__grid--item">
-                    <h2>Newport News, VA</h2>
-                    <ul>
-                        <li>Address: 700 Tech Center Parkway, Office#236, Newport News, VA 23606</li>
-                        <li>Office: 703.340.8033</li>
-                        <li>Fax: 703.991.0604</li>
-                        <li>Map: https://maps.app.goo.gl/zbpcBusZMzXCzR7A9</li>
-                    </ul>
+                <h2>Newport News, VA</h2>
+                <ul>
+                    <li>Address: 700 Tech Center Parkway, Office#236, Newport News, VA 23606</li>
+                    <li>Office: 703.340.8033</li>
+                    <li>Fax: 703.991.0604</li>
+                    <li>Map: https://maps.app.goo.gl/zbpcBusZMzXCzR7A9</li>
+                </ul>
+            </div>
+            <section class="team-fax-section">
+                <h2 class="team-fax-title">Fax Numbers by PI Team</h2>
+
+                <div class="team-fax-grid">
+                    <div class="team-fax-item">
+                        <h3>PI CV</h3>
+                        <p>Fax: (202) 220-7004</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI WC | SG &amp; GB</h3>
+                        <p>Fax: (202) 220-7002</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI Tier 2 MD</h3>
+                        <p>Fax: (202) 220-7008</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI Tier 2 DC / VA</h3>
+                        <p>Fax: (202) 301-0121</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI Tier 3 MD / Med Mal</h3>
+                        <p>Fax: (202) 301-0119</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI Tier 3 DC / VA</h3>
+                        <p>Fax: (202) 220-7006</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI Tier 1 DC</h3>
+                        <p>Fax: (202) 220-7005</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI Tier 1 MD</h3>
+                        <p>Fax: (202) 747-6004</p>
+                    </div>
+
+                    <div class="team-fax-item">
+                        <h3>PI Tier 1 VA</h3>
+                        <p>Fax: (202) 220-1250</p>
+                    </div>
                 </div>
+            </section>
         </section>
     )
 }
